@@ -26,6 +26,7 @@
 - ⚙️ Comfortable with **Redux, Zustand, Context API** & **REST / Gemini AI** integration
 - 💬 Ask me about **React, Next.js, Tailwind CSS, SCSS** & **Frontend Architecture**
 - 📫 Reach me at **srabonmozumder29@gmail.com**
+- 📫 Reach me at **01827621312**
 - ⚡ Fun fact: I enjoy **Cricket 🏏, Badminton 🏸 & Football ⚽** away from the keyboard
 
 <br/>
